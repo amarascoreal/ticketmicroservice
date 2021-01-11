@@ -1,8 +1,8 @@
 <#assign wp=JspTaglibs["/aps-core"]>
 <script src="<@wp.resourceURL />ticketmicroservice-bundle/static/js/2.e9449e6d.chunk.js"></script>
 <script src="<@wp.resourceURL />ticketmicroservice-bundle/static/js/2.e9449e6d.chunk.js.map"></script>
-<script src="<@wp.resourceURL />ticketmicroservice-bundle/static/js/main.ebe71d59.chunk.js"></script>
-<script src="<@wp.resourceURL />ticketmicroservice-bundle/static/js/main.ebe71d59.chunk.js.map"></script>
+<script src="<@wp.resourceURL />ticketmicroservice-bundle/static/js/main.20189cc2.chunk.js"></script>
+<script src="<@wp.resourceURL />ticketmicroservice-bundle/static/js/main.20189cc2.chunk.js.map"></script>
 <script src="<@wp.resourceURL />ticketmicroservice-bundle/static/js/runtime~main.8fdcf30c.js"></script>
 <script src="<@wp.resourceURL />ticketmicroservice-bundle/static/js/runtime~main.8fdcf30c.js.map"></script>
 <#-- entando_resource_injection_point -->
