@@ -1,0 +1,13 @@
+code: ticketmicroservice-bundle
+description: This is the ticketmicroservice bundle
+
+components:
+  plugins:
+    - plugins/ticketmicroservice-plugin.yaml
+
+  widgets:
+    - ui/widgets/ticket/tableWidget/ticket-table-widget-descriptor.yaml
+    - ui/widgets/ticket/detailsWidget/ticket-details-widget-descriptor.yaml
+    - ui/widgets/ticket/formWidget/ticket-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
