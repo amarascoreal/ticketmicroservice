@@ -4,4 +4,5 @@ healthCheckPath: "/management/health"
 roles:
   - "ticketmicroservice-admin"
   - "ticket-admin"
+  - "service-account"
 # entando-needle-descriptor-add-roles - Entando blueprint will add roles here
